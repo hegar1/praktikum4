@@ -10,3 +10,5 @@
 5. r adalah jari-jari lingkaran
 
 # Flowchart menghitung luas dan keliling lingkaran
+
+![Screenshot (34)](https://user-images.githubusercontent.com/115518483/198881724-f74c0f81-9f24-42ad-ac71-af4fe1e931b5.png)
